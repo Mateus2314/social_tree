@@ -9,7 +9,6 @@
     --body-bg-color: #FAF7FD;
     --purple: #a49daa;
 }
-
 body {
     background-color: var(--body-bg-color);
 }
